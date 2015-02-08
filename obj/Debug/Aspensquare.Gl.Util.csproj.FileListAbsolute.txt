@@ -1,0 +1,6 @@
+D:\GitHub\GL_Importer_DLL\GL_Importer_DLL\obj\Debug\Aspensquare.Gl.Util.csprojResolveAssemblyReference.cache
+D:\GitHub\GL_Importer_DLL\GL_Importer_DLL\bin\Debug\Aspensquare.Gl.Util.dll
+D:\GitHub\GL_Importer_DLL\GL_Importer_DLL\bin\Debug\Aspensquare.Gl.Util.pdb
+D:\GitHub\GL_Importer_DLL\GL_Importer_DLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\GitHub\GL_Importer_DLL\GL_Importer_DLL\obj\Debug\Aspensquare.Gl.Util.dll
+D:\GitHub\GL_Importer_DLL\GL_Importer_DLL\obj\Debug\Aspensquare.Gl.Util.pdb
